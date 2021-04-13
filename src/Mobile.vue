@@ -127,7 +127,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `张礼
+        fullMarkdown: `张礼 test
 ----
 
 资深前端工程师，资深前端讲师

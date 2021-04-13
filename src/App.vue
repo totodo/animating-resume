@@ -24,7 +24,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是你们老师
+* 大家好，我是你们老师  
 * 现在教你们怎么做好一个简历，  
 * 我也来写一份简历！
 */
@@ -115,7 +115,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `张礼
+        fullMarkdown: `张礼test
 ----
 
 资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
